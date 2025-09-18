@@ -28,7 +28,7 @@ export const decryptData = (encryptedData) => {
 
 const instance = axios.create({
   // baseURL: "https://w0vhrv2j-8080.inc1.devtunnels.ms/",
-  baseURL: "https://1vkmpxlh-8096.inc1.devtunnels.ms/",
+  baseURL: "https://1vkmpxlh-8093.inc1.devtunnels.ms/",
   // baseURL: "https://smffhsfh-8080.inc1.devtunnels.ms/",
   // baseURL: "https://1vkmpxlh-8093.inc1.devtunnels.ms/",
 
